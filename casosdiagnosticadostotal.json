@@ -1,0 +1,127 @@
+[
+  {
+    "Año": 2021,
+    "mes": "junio",
+    "casos_enmillones": 3440
+  },
+  {
+    "Año": 2021,
+    "mes": "julio",
+    "casos_enmillones": 10865
+  },
+  {
+    "Año": 2021,
+    "mes": "agosto",
+    "casos_enmillones": 13737
+  },
+  {
+    "Año": 2021,
+    "mes": "septiembre",
+    "casos_enmillones": 13877
+  },
+  {
+    "Año": 2021,
+    "mes": "octubre",
+    "casos_enmillones": 12485
+  },
+  {
+    "Año": 2021,
+    "mes": "noviembre",
+    "casos_enmillones": 14290
+  },
+  {
+    "Año": 2021,
+    "mes": "diciembre",
+    "casos_enmillones": 14602
+  },
+  {
+    "Año": 2022,
+    "mes": "enero",
+    "casos_enmillones": 24019
+  },
+  {
+    "Año": 2022,
+    "mes": "febrero",
+    "casos_enmillones": 24112
+  },
+  {
+    "Año": 2022,
+    "mes": "marzo",
+    "casos_enmillones": 30951
+  },
+  {
+    "Año": 2022,
+    "mes": "abril",
+    "casos_enmillones": 24563
+  },
+  {
+    "Año": 2022,
+    "mes": "mayo",
+    "casos_enmillones": 10954
+  },
+  {
+    "Año": 2022,
+    "mes": "junio",
+    "casos_enmillones": 8926
+  },
+  {
+    "Año": 2022,
+    "mes": "julio",
+    "casos_enmillones": 9380
+  },
+  {
+    "Año": 2022,
+    "mes": "agosto",
+    "casos_enmillones": 9308
+  },
+  {
+    "Año": 2022,
+    "mes": "septiembre",
+    "casos_enmillones": 10839
+  },
+  {
+    "Año": 2022,
+    "mes": "octubre",
+    "casos_enmillones": 6733
+  },
+  {
+    "Año": 2022,
+    "mes": "noviembre",
+    "casos_enmillones": 5554
+  },
+  {
+    "Año": 2022,
+    "mes": "diciembre",
+    "casos_enmillones": 6824
+  },
+  {
+    "Año": 2023,
+    "mes": "enero",
+    "casos_enmillones": 5485
+  },
+  {
+    "Año": 2023,
+    "mes": "febrero",
+    "casos_enmillones": 5501
+  },
+  {
+    "Año": 2023,
+    "mes": "marzo",
+    "casos_enmillones": 5650
+  },
+  {
+    "Año": 2023,
+    "mes": "abril",
+    "casos_enmillones": 2764
+  },
+  {
+    "Año": 2023,
+    "mes": "mayo",
+    "casos_enmillones": 2772
+  },
+  {
+    "Año": 2023,
+    "mes": "junio",
+    "casos_enmillones": 4171
+  }
+]

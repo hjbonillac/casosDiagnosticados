@@ -2,126 +2,126 @@
   {
     "Año": 2021,
     "mes": "junio",
-    "casos_enmillones": 3440
+    "numero_casos": 3440
   },
   {
     "Año": 2021,
     "mes": "julio",
-    "casos_enmillones": 10865
+    "numero_casos": 10865
   },
   {
     "Año": 2021,
     "mes": "agosto",
-    "casos_enmillones": 13737
+    "numero_casos": 13737
   },
   {
     "Año": 2021,
     "mes": "septiembre",
-    "casos_enmillones": 13877
+    "numero_casos": 13877
   },
   {
     "Año": 2021,
     "mes": "octubre",
-    "casos_enmillones": 12485
+    "numero_casos": 12485
   },
   {
     "Año": 2021,
     "mes": "noviembre",
-    "casos_enmillones": 14290
+    "numero_casos": 14290
   },
   {
     "Año": 2021,
     "mes": "diciembre",
-    "casos_enmillones": 14602
+    "numero_casos": 14602
   },
   {
     "Año": 2022,
     "mes": "enero",
-    "casos_enmillones": 24019
+    "numero_casos": 24019
   },
   {
     "Año": 2022,
     "mes": "febrero",
-    "casos_enmillones": 24112
+    "numero_casos": 24112
   },
   {
     "Año": 2022,
     "mes": "marzo",
-    "casos_enmillones": 30951
+    "numero_casos": 30951
   },
   {
     "Año": 2022,
     "mes": "abril",
-    "casos_enmillones": 24563
+    "numero_casos": 24563
   },
   {
     "Año": 2022,
     "mes": "mayo",
-    "casos_enmillones": 10954
+    "numero_casos": 10954
   },
   {
     "Año": 2022,
     "mes": "junio",
-    "casos_enmillones": 8926
+    "numero_casos": 8926
   },
   {
     "Año": 2022,
     "mes": "julio",
-    "casos_enmillones": 9380
+    "numero_casos": 9380
   },
   {
     "Año": 2022,
     "mes": "agosto",
-    "casos_enmillones": 9308
+    "numero_casos": 9308
   },
   {
     "Año": 2022,
     "mes": "septiembre",
-    "casos_enmillones": 10839
+    "numero_casos": 10839
   },
   {
     "Año": 2022,
     "mes": "octubre",
-    "casos_enmillones": 6733
+    "numero_casos": 6733
   },
   {
     "Año": 2022,
     "mes": "noviembre",
-    "casos_enmillones": 5554
+    "numero_casos": 5554
   },
   {
     "Año": 2022,
     "mes": "diciembre",
-    "casos_enmillones": 6824
+    "numero_casos": 6824
   },
   {
     "Año": 2023,
     "mes": "enero",
-    "casos_enmillones": 5485
+    "numero_casos": 5485
   },
   {
     "Año": 2023,
     "mes": "febrero",
-    "casos_enmillones": 5501
+    "numero_casos": 5501
   },
   {
     "Año": 2023,
     "mes": "marzo",
-    "casos_enmillones": 5650
+    "numero_casos": 5650
   },
   {
     "Año": 2023,
     "mes": "abril",
-    "casos_enmillones": 2764
+    "numero_casos": 2764
   },
   {
     "Año": 2023,
     "mes": "mayo",
-    "casos_enmillones": 2772
+    "numero_casos": 2772
   },
   {
     "Año": 2023,
     "mes": "junio",
-    "casos_enmillones": 4171
+    "numero_casos": 4171
   }
 ]
